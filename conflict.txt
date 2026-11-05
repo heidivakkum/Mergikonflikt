@@ -1,0 +1,3 @@
+2.4 Tekstiredaktor Vim - igaks juhuks, et oskaksite Vim-is liikuda ja sealt väljuda, kui Git teid sinna ootamatult suunab.
+2.5 Esmane seadistus - saate juhendi abil kontrollida, kas teie Giti seaded on õigesti paigas.
+Peatükk 3 - võite seda kasutada seminarides käsitletud teemade kordamiseks ja täpsustamiseks.
